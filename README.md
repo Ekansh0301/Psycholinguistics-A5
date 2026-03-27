@@ -71,3 +71,4 @@ The program evaluates the ambiguous sentences and emits properly aligned S-expre
 - **Grammar Format Expected:** `Probability LHS RHS1 RHS2 ...` (Items separated by whitespace)
 - All algorithms maintain strict $O(n^2)$ structural space scaling and $O(n^3)$ temporal scaling through optimized dictionary lookups.
 - Completely adheres to Python PEP-8 linting guidelines natively to prevent any false "warning" outputs across modern code editors.
+
